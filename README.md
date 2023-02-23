@@ -16,3 +16,5 @@ The project follows the follow steps:
 * Step 5: Publish to Power BI Service
 
 A detailed tutorial on how to recreate this project can be found here: [Power BI Portfolio Project](https://youtu.be/pNt055QYaBY)
+
+You can interact with the dashboard here: [Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGMxNGU2NDUtYmMzNC00ODRjLTgzZjItZTlhY2YyMjc0ZTI5IiwidCI6ImYyMTUyYzc1LWUxMWUtNGM0My1iNTRjLWIyY2IwYzJkNTU2MCIsImMiOjZ9)
